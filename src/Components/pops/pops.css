@@ -1,0 +1,46 @@
+#pops{
+    padding: 60px 0;
+}
+#pops a{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+#pops h3{
+    font-family: "Poppins", serif;  
+    font-size: 36px;
+    font-weight: 500;
+}
+#pops p{
+    color: black;
+}
+/* ................ */
+h6{
+    margin-top: 20px;
+}
+#feature h2{
+    font-family: "Poppins", serif;  
+    font-size: 46px;
+    font-weight: 600;
+    width: 630px;
+    margin: 0 auto;
+    margin-top: 20px ;
+    margin-bottom: 20px ;
+}
+/* .frow1{
+    background-color: rgb(254, 249, 242);
+} */
+.box{
+    padding: 20px;
+    background-color: antiquewhite;
+    margin-top: 10px;
+
+}
+.box img{
+    margin-bottom: 15px;
+}
+.box p{
+    color: black;
+    width: 100%;
+   
+}
