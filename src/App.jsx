@@ -1,5 +1,4 @@
 import Banner from "./Components/banner/Banner"
-
 import Header from "./Components/header/Header"
 import Pops from "./Components/pops/Pops"
 

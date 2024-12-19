@@ -8,7 +8,7 @@ import num2 from "../../assets/2.png";
 import num3 from "../../assets/3.png";
 import num4 from "../../assets/4.png";
 import Feature from "../reusable/Feature";
-import i1 from "../../assets/icon.png";
+import i1 from "../../assets/i1.png";
 import i2 from "../../assets/i2.png";
 import i3 from "../../assets/i3.png";
 import i4 from "../../assets/i4.png";
@@ -97,7 +97,7 @@ const Pops = () => {
             />
 
             <Feature
-              img={i5}
+              img={i6}
               title="Hands-on approach"
               list="Euismod faucibus turpis eu gravida mi. Pellentesque et velit aliquam sed faucib turpis eu gravida mi. Pellentesque et velit aliquam sed mi."
             />
